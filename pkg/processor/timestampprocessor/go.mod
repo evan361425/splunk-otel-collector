@@ -4,13 +4,13 @@ go 1.25.3
 
 require (
 	github.com/stretchr/testify v1.11.1
-	go.opentelemetry.io/collector/component v1.46.0
-	go.opentelemetry.io/collector/confmap v1.46.0
-	go.opentelemetry.io/collector/consumer v1.46.0
-	go.opentelemetry.io/collector/pdata v1.46.0
-	go.opentelemetry.io/collector/processor v1.46.0
-	go.opentelemetry.io/collector/processor/processorhelper v0.140.0
-	go.uber.org/zap v1.27.0
+	go.opentelemetry.io/collector/component v1.46.1-0.20251125233348-7ae5e87eb26c
+	go.opentelemetry.io/collector/confmap v1.46.1-0.20251125233348-7ae5e87eb26c
+	go.opentelemetry.io/collector/consumer v1.46.1-0.20251125233348-7ae5e87eb26c
+	go.opentelemetry.io/collector/pdata v1.46.1-0.20251125233348-7ae5e87eb26c
+	go.opentelemetry.io/collector/processor v1.46.1-0.20251125233348-7ae5e87eb26c
+	go.opentelemetry.io/collector/processor/processorhelper v0.140.1-0.20251125233348-7ae5e87eb26c
+	go.uber.org/zap v1.27.1
 )
 
 require (
